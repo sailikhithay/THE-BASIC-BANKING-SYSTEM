@@ -6,7 +6,7 @@ The Sparks Foundation
 
 Hello,
 
-Myself sai likhitha yalamanchili.
+Myself Sai Likhitha Yalamanchili.
 
 The project that I've choosen under The Sparks Foundation , Mobile App Development is The Basic Banking System # Task-1.
 
